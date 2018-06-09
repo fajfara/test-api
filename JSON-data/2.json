@@ -1,9 +1,1 @@
-[   
-    {"name":"Zelena","id":"1"},
-    {"name":"Modra","id":"2"},
-    {"name":"Rjava","id":"3"},
-    {"name":"Bela","id":"4"},
-    {"name":"Črna","id":"5"},
-    {"name":"Rdeča","id":"6"}
-
-]
+[{"name":"Blue"},{"name":"Vijolična"},{"name":"Cyan"},{"name":"Bela"},{"name":"Zelena"},{"name":"Rdeča"}]
